@@ -8,7 +8,6 @@ by **Wei Yang\*, Yiran Zhu\*, Zilin Li, Xunjia Zhang, Hongtao Wang†**
 
 - 📝 Paper: [arXiv PDF](https://arxiv.org/pdf/2511.18415.pdf)  
 - 🌐 Project page: https://ciaranz.github.io/SEKD.github.io/  
-- 📧 Contact: (e.g.) `wanght@ncepu.edu.cn` 
 
 ---
 
